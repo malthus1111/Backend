@@ -10,4 +10,7 @@ Before you begin, make sure you have installed:
 
 - Node.js and npm: You can download them [here](https://nodejs.org/).
 - MySQL Follow the installation instructions [here](https://dev.mysql.com/downloads/mysql/).
-- 
+
+### 💾 Installation
+
+1. Clone the repository: 
