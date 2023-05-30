@@ -13,4 +13,12 @@ Before you begin, make sure you have installed:
 
 ### 💾 Installation
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/malthus1111/Backend.git
+
+2. Change to the project directory: cd Backend
+
+3. Install the required dependencies: npm install
+
+4. In the db.config.js file, configure the "user" and "passeword" fields with your muysql account details, and the "DB" field with the name of the sql database you've created.
+
+5.the default API runs on port 8080. To launch the API, type the command node server.js from the project root 
